@@ -3,8 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [What You'll Learn](#what-youll-learn)
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
+- [Technologies](#technologies
 
 ## Introduction
 
@@ -39,19 +38,3 @@ The project is designed with the following components:
 - PostgreSQL
 - Docker
 
-## Getting Started
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd e2e-data-engineering
-    ```
-
-3. Run Docker Compose to spin up the services:
-    ```bash
-    docker-compose up
-    ```
